@@ -1,4 +1,4 @@
-# KOM-Euph
+# JointEDI
 This repo contains source code and data to reproduce the results in the research paper: A Unified Generative Framework for Bilingual Euphemism Detection and Identification.
 
 ![image](https://github.com/DHZ68/KOM-Euph/assets/32569555/d3a6edaf-1ea0-4be2-8964-4283d01eba76)
