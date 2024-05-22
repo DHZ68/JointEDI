@@ -1,5 +1,7 @@
 # KOM-Euph
 This repo contains source code and data to reproduce the results in the research paper: A Unified Generative Framework for Bilingual Euphemism Detection and Identification.
+![image](https://github.com/DHZ68/KOM-Euph/assets/32569555/a6211343-8e71-4906-b885-fef9bd610291)
+
 ## Table of Contents
 
 - [Introduction](#Introduction)
