@@ -9,7 +9,7 @@ This repo contains source code and data to reproduce the results in the research
 
 ## Introduction
 
-This project aims to create a unified generative framework to solve the problem of euphemism detection and euphemism identification in multiple languages.
+This project aims to create a unified generative framework to solve the problem of euphemism detection and euphemism identification in bilingual languages.
 
 ## Requirements
 
@@ -27,7 +27,11 @@ Then install other required packages.
 pip install -r requirements.txt
 ```
 
-Since we use different models of `mBart` and `mT5` models for experiments, you need to download the corresponding model parameters on [Hugging Face](https://huggingface.co/).
+Since we use different models of `mBart` and `mT5` models for experiments, you need to download the corresponding model parameters on Hugging Face.
+- [mbart-large-50](https://huggingface.co/facebook/mbart-large-50)
+- [mbart-large-cc25](https://huggingface.co/facebook/mbart-large-cc25)
+- [mT5-base](https://huggingface.co/google/mt5-base)
+- [mT5-large](https://huggingface.co/google/mt5-large)
 
 ## Data
 
