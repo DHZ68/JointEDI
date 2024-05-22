@@ -31,7 +31,7 @@ Since we use different models of `mBart` and `mT5` models for experiments, you n
 
 ## Data
 
-The Data folder contains folders in `Chinese` and `English`. There are `train.json`, `dev.json`, and `test.json` files in each language folder.
+The `data` folder contains folders in `Chinese` and `English`. There are `train.json`, `dev.json`, and `test.json` files in each language folder.
 
 ## Code
 
