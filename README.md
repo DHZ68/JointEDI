@@ -1,6 +1,6 @@
 # KOM-Euph
 This repo contains source code and data to reproduce the results in the research paper: A Unified Generative Framework for Bilingual Euphemism Detection and Identification.
-![image](https://github.com/DHZ68/KOM-Euph/assets/32569555/a6211343-8e71-4906-b885-fef9bd610291)
+![image](https://github.com/DHZ68/KOM-Euph/assets/32569555/b70670fb-9ff9-4827-a66d-5abdd2f107cd)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ The `data` folder contains folders in `Chinese` and `English`. There are `train.
 ## Code
 
 `main.py` describes the four modules of `parameter setting`, `constructing dataset`, `training model,` and `testing model`, and the specific implementation is distributed in other files of `utils`.
-
+![image](https://github.com/DHZ68/KOM-Euph/assets/32569555/a6211343-8e71-4906-b885-fef9bd610291)
 You can use the terminal to execute the `main.py` file, as follows:
 
 ```
