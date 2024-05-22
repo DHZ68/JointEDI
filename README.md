@@ -1,5 +1,5 @@
 # KOM-Euph
-
+This repo contains source code and data to reproduce the results in the research paper ReFT: Reasoning with REinforced Fine-Tuning
 ## Table of Contents
 
 - [Introduction](#Introduction)
